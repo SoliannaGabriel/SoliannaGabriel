@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Solianna
+### Ask me about music!
+### I'll be working on the Final Project soon
+### 
 
 <!--
 **SoliannaGabriel/SoliannaGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
