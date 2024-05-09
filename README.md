@@ -1,12 +1,11 @@
 ### Hi! I'm Solianna :)
-### 🔭 I’m currently working on THE FINAL PROJECT
+### 🔭 I’m currently working on THE FINAL PROJECT :3
 ### 🌱 I’m currently learning computer science
-### 👯 I’m looking to collaborate on 
 ### 🤔 I’m looking for help with finishing senior year strong
-### 💬 Ask me about music, running, and annoying moya!!
+### 💬 Ask me about music, running, and annoying moya 0_0
 ### 📫 How to reach me: Canvas Inbox
 ### 😄 Pronouns: she/her
-### ⚡ Fun fact: Moya is my second cousin
+### ⚡ Fun fact: Moya is my second cousin >.<
 
 <!--
 **SoliannaGabriel/SoliannaGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
